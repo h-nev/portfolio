@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Here's where a (hopefully newer) cover photo will go, alongside some other basic info.
+Here's where a (hopefully newer) cover photo will go, alongside some other info.
