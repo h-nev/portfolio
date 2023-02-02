@@ -21,7 +21,7 @@
 title: Hope Neveux
 email: hope.nev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Data Science MS candidate @ Harvard. Committed to ethical, sustainable, transparent, and privacy-centric machine learning and artificial intelligence for social good. 
+  Committed to ethical, sustainable, transparent, and privacy-centric machine learning and artificial intelligence for social good. 
   Passionate about honest and accessible visualization of information. 
 baseurl: /portfolio # the subpath of your site, e.g. /blog
 url: https://h-nev.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
